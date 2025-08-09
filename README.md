@@ -2,4 +2,4 @@
 This repository contains scripts for proxmox.
 
 Folders:
-- cloudinit, scripts for generating ubuntu cloudinit images.
+- cloud-init, scripts for generating ubuntu cloudinit images.
